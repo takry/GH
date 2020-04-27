@@ -1,1 +1,6 @@
+<<<<<<< Updated upstream
 Hello, World! YES
+=======
+Hello, World!
+Commit3
+>>>>>>> Stashed changes
